@@ -1,0 +1,18 @@
+#fonte1 {
+    color: red;
+    font-family: arial;
+    font-size: 10px;
+}
+
+#fonte2 {
+    color: green;
+    font-family: verdana;
+    font-style: italic;
+}
+
+#fonte3 {
+    color: blue;
+    font-family: calibri;
+    font-variant: small-caps;
+    font-weight: bold;
+}
