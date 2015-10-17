@@ -1,0 +1,23 @@
+#esquerda {
+    color: blue;
+    font-size: 12px;
+    text-align: left;
+}
+
+#direita {
+    color: red;
+    font-size: 12px;
+    text-align: right;
+}
+
+#centro {
+    color: green;
+    font-size: 12px;
+    text-align: center;
+}
+
+#justificado {
+    color: orange;
+    font-size: 12px;
+    text-align: justify;
+}
