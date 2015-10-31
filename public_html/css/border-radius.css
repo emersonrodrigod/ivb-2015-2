@@ -1,0 +1,10 @@
+#redondo {
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+#radius2 {
+    border:2px solid black;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius:  5px;
+}

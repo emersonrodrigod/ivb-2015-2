@@ -1,0 +1,12 @@
+#sem-ordem {
+    list-style-type: square;
+}
+
+#lista-imagem {
+    list-style-image: url(../imagens/estrela.png);
+}
+
+#com-ordem {
+    list-style-type: lower-roman;
+}
+

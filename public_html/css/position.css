@@ -1,0 +1,10 @@
+#fixo {
+    height: 70px;
+    width: 100%;
+    background-color: blue;
+    position: fixed;
+}
+
+p {
+    width: 50px;
+}

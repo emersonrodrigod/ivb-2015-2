@@ -1,0 +1,16 @@
+#vermelho {
+    width: 500px;
+    margin: 0 auto; /*Centraliza na tela*/
+    height: 500px;
+    background-color: red;
+    position: relative;
+}
+
+#preto {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}

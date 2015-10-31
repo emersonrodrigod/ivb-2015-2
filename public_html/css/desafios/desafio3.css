@@ -1,0 +1,6 @@
+#lista {
+    list-style-image: url(../../imagens/estrela.png);
+    color: green;
+    font-size: 15px;
+    font-style: italic;
+}
