@@ -1,0 +1,33 @@
+#header {
+    background-color: #ff8000;
+    height: 100px;
+}
+
+#esquerda {
+    background-color: #000;
+    height: 500px;
+    width: 200px;
+    float: left;
+}
+
+#meio {
+    background-color: #f1f1f1;
+    height: 400px;
+    float: left;
+}
+
+#direita {
+    background-color: #900;
+    height: 500px;
+    width: 200px;
+    float: right;
+}
+
+#footer {
+    background-color: blue;
+    height: 50px;
+}
+
+.clear {
+    clear: both;
+}
